@@ -1,0 +1,17 @@
+select {
+  width: 100%;
+}
+
+optgroup {
+  color: red;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+}
+
+option {
+  color: blue;
+  float: right;
+  width: 100%;
+}
